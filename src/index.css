@@ -2,6 +2,8 @@
   box-sizing: border-box;
 }
 
+
+
 body {
   font-family: sans-serif;
   margin: 3rem;
@@ -12,25 +14,29 @@ h1, h2 {
   color: #333333;
 }
 
+.app {
+  text-align: center;
+}
+
 .btn {
   font: inherit;
   padding: 0.5rem 1.5rem;
   cursor: pointer;
   border-radius: 4px;
-  background-color: #800040;
+  background-color: #0bc0c3;
   color: white;
-  border: 1px solid #800040;
+  border: 1px solid #0bc0c3;
   margin: 0 1rem;
 }
 
 .btn:hover {
-  background-color: #9c1458;
-  border-color: #9c1458;
+  background-color: #0bc0c3;
+  border-color: #0bc0c3;
 }
 
 .btn--alt {
   background-color: transparent;
-  color: #800040;
+  color: #0bc0c3;
 }
 
 .btn--alt:hover {

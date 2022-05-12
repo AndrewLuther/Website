@@ -1,14 +1,13 @@
-import Todo from './components/Todo';
-
+import Bio from './components/Bio';
+import Links from './components/Links';
 
 function App() {
   return (
-    <div>
-      <h1>Andrew Luther</h1>
-      <Todo text='Learn React' />
-      <Todo text='Master React' />
-      <Todo text='Explore the full React course' />
-
+    <div className='app'>
+      <h1>Welcome to AndrewLuther.com!</h1>
+      <Bio />
+      <br></br>
+      <Links />
     </div>
   );
 }
