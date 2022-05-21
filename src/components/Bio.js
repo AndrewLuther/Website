@@ -20,7 +20,7 @@ function Bio() {
 
             <h2>Links</h2>
             <p>
-                <Link to='https://github.com/AndrewLuther'>Github</Link>    <Link to='https://linkedin.com/in/andrewgluther/'>LinkedIn</Link>    <Link to='https://www.youtube.com/channel/UC9IHtxObCD8zjsGBcTVUH5g'>YouTube</Link>    
+            <a href="https://github.com/AndrewLuther">Github</a>    <a href='https://linkedin.com/in/andrewgluther/'>LinkedIn</a>    <a href='https://www.youtube.com/channel/UC9IHtxObCD8zjsGBcTVUH5g'>YouTube</a>    
             </p>
         </div>
     )

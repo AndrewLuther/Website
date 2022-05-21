@@ -1,5 +1,7 @@
+import Music from "../components/Music"
+
 function MusicPage() {
-    return <div>Music Page</div>
+    return <div><Music/></div>
 }
 
 export default MusicPage

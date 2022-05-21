@@ -15,6 +15,10 @@
   align-items: center;
 }
 
+.projectHeader {
+  margin-bottom: 30px;
+}
+
 body {
   font-family: sans-serif;
   margin: 3rem;
