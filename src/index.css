@@ -20,18 +20,20 @@
   padding-right: 50px;
 }
 
-.image {
-  margin-right: 30px;
-  border: 8px solid #010844
-
-}
-
 .bio {
   padding-top: 4px;
   display: flex;
 }
 
+.image {
+  flex:5;
+  margin-right: 30px;
+  border: 8px solid #010844
+}
+
 .biotext {
+  min-width: 100px;
+  flex:5;
   padding-right: 30px;
 }
 
