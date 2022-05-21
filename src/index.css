@@ -32,7 +32,7 @@
 }
 
 .biotext {
-  min-width: 100px;
+  min-width: 500px;
   flex:5;
   padding-right: 30px;
 }
