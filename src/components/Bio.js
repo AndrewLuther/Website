@@ -10,7 +10,7 @@ function Bio() {
         <div className = 'bio'>
         
             <div className = 'biotext'>
-            <h2>About Me v4</h2>
+            <h2>About Me</h2>
             <p>I am a music enthusiast and an aspiring software development researcher. I have a passion for both music composition and computer science, 
                 and I am particularly interested in the application of computer science for electronic music composition, production, and analysis.</p>
             <p>I graduated with a Bachelor of Music (Honours) in 2021 from Memorial University, where I studied piano under Dr. Kristina Szutor and music composition under Dr. Andrew Staniland and Dr. Clark Ross.  

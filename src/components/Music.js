@@ -48,7 +48,10 @@ function Music() {
             </div> 
             <div className='audio'>
             <h2>Audio</h2>
-
+            <audio controls 
+            src='../audio/Kingdomino.mp3'>
+                Your browser does not support the audio element.
+            </audio>
             </div>
 
         </div>
