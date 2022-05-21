@@ -4,7 +4,6 @@
 
 .music {
   display: flex;
-  height: 100%;
 }
 
 .audio {
@@ -13,11 +12,11 @@
 
 .videos {
   flex:5;
-  padding-right: 10%;
+  padding-right: 50px;
 }
 
 .image {
-
+  margin-right: 30px;
   border: 8px solid #010844
 
 }
@@ -27,17 +26,23 @@
 }
 
 .biotext {
-  padding-right: 10%;
+  padding-right: 30px;
 }
+
 
 .projectHeader {
   margin-bottom: 30px;
 }
 
 body {
+  display: flex;
+  overflow-x: auto;
+  white-space: pre-wrap;
   font-family: sans-serif;
   margin: 3rem;
   background-color: #e5dbff;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 h1, h2 {
@@ -56,8 +61,8 @@ ul.nav {
 ul.nav > li {
   text-align: center;
   display: inline-block;
-  padding-left: 3%;
-  padding-right: 3%;
+  padding-left: 30px;
+  padding-right: 30px;
   padding-top: 10px;
   padding-bottom: 10px;
   background-color: #9098dc;
@@ -85,8 +90,7 @@ p {
 }
 
 .app {
-  padding-left: 10%;
-  padding-right: 10%;
+  
   text-align: left;
   align-items: center;
 }
