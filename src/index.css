@@ -2,17 +2,32 @@
   box-sizing: border-box;
 }
 
+.music {
+  display: flex;
+  height: 100%;
+}
+
+.audio {
+  flex:5;
+}
+
+.videos {
+  flex:5;
+  padding-right: 10%;
+}
+
 .image {
-  margin-left: 10%;
-  margin-right: 10%;
-  margin-bottom: 30px;
-  align-self: center;
+
   border: 8px solid #010844
 
 }
 
 .bio {
-  align-items: center;
+  display: flex;
+}
+
+.biotext {
+  padding-right: 10%;
 }
 
 .projectHeader {
