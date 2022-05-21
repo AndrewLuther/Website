@@ -5,7 +5,7 @@ function Bio() {
 
 
     return (
-        <div>
+        <div className = 'bio'>
             
             <h2>About Me</h2>
             <img className = 'image' src={pic} align="right" alt="qvheadshot" width={300} height={300}/>

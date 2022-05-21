@@ -11,6 +11,10 @@
 
 }
 
+.bio {
+  align-items: center;
+}
+
 body {
   font-family: sans-serif;
   margin: 3rem;
