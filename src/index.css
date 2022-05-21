@@ -2,6 +2,11 @@
   box-sizing: border-box;
 }
 
+.projects {
+  padding-top: 4px;
+}
+
+
 .music {
   display: flex;
 }
@@ -22,6 +27,7 @@
 }
 
 .bio {
+  padding-top: 4px;
   display: flex;
 }
 
@@ -41,8 +47,8 @@ body {
   font-family: sans-serif;
   margin: 3rem;
   background-color: #e5dbff;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 200px;
+  padding-right: 200px;
 }
 
 h1, h2 {

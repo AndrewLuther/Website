@@ -1,6 +1,7 @@
 function Projects() {
     return(
         <div>
+            <div className='projects'>
             <h2 className='projectHeader'>My Projects</h2>
             <h3>Kingdomino (Java)</h3>
             <h4>April 2022</h4>
@@ -27,9 +28,10 @@ function Projects() {
             <h4>November 2021</h4>
             <p>A virtual pet (inspired by “Tamagotchi”) with GUI.</p>
             <a href="https://github.com/AndrewLuther/RoboPet">Github</a>
-
-            
         </div>
+
+        </div>
+        
     );
 
 }

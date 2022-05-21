@@ -4,12 +4,8 @@ function Music() {
     return (
     <div>
         <div className='music'>
-
-            
-
             <div className='videos'>
             <h2>Videos</h2>
-
                 <div>
                 <h3>Variations on Circular Motion - April 2021</h3>
                 <h4>Percussion, Guzheng (4'30")</h4>
