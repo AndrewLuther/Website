@@ -53,8 +53,8 @@ function Music() {
             <div className='audio'>
             <h2>Audio</h2>
             <h3>Getaway - March 2022</h3>
-            <p>"Getaway" is a peaceful electronic composition I wrote about a rocky beach in York Harbour. 
-                It's about nature, and it's capability to give one an escape from everyday life.</p>
+            <p>"Getaway" is a peaceful electronic composition written about a rocky beach in York Harbour. 
+                It's about nature, and it's capability to give one an escape from everyday life. Music video coming soon!</p>
             <br/>
             <audio controls
             src={Getaway}>
