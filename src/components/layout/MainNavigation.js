@@ -11,10 +11,10 @@ function MainNavigation() {
                         <Link to='/'>Home</Link>
                     </li>
                     <li>
-                        <Link to='/Code'>Code</Link>
+                        <Link to='/Code'>Programmer</Link>
                     </li>
                     <li>
-                        <Link to='/Music'>Music</Link>
+                        <Link to='/Music'>Composer</Link>
                     </li>
                 </ul>
             </nav>
