@@ -4,8 +4,16 @@
 
 .projects {
   padding-top: 4px;
-  max-width: 500px;
 
+
+}
+
+.projectText {
+  width: 500px;
+}
+
+.project {
+  display: flex;
 }
 
 
@@ -29,6 +37,7 @@
 
 .image {
   flex:5;
+  margin-left: 50px;
   margin-right: 30px;
   border: 8px solid #010844
 }
