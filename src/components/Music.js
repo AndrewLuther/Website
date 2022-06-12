@@ -17,7 +17,7 @@ function Music() {
                 Bridget Swift and her two dogs, Wally and Olive.
                 </p>
                 <br/><br/>
-                <iframe 
+                <iframe className = 'videoFrame'
                 width="560" 
                 height="315" 
                 src="https://www.youtube.com/embed/1huNw8_9xAA" 
@@ -39,7 +39,7 @@ function Music() {
                     However, unlike a typical presentation, this piece presents the variations 
                     before the listener hears the main theme.</p>
                 <br></br>
-                <iframe 
+                <iframe className = 'videoFrame'
                 width="560" 
                 height="315" 
                 src="https://www.youtube.com/embed/bLg7wZN7yuY" 

@@ -9,7 +9,8 @@
 }
 
 .projectText {
-  min-width: 50vw;
+  width: 50vw;
+  max-width: 500px;
 }
 
 .project {
@@ -18,9 +19,14 @@
 
 
 .musicText {
-  max-width: 80vw;
+  width: 80vw;
   flex:5;
   padding-right: 30px;
+}
+
+.videoFrame {
+  width: 80vw;
+  height: 45vw;
 }
 
 .videos {
@@ -35,11 +41,11 @@
 .image {
   flex:5vw;
   margin-left: 3vw;
-  margin-right: 5vw;
+  margin-right: 3vw;
   border: 8px solid #010844;
   background-color: #9098dc;
-  max-width: 25vw;
-  max-height: 25vw;
+  max-width: 20vw;
+  max-height: 20vw;
 }
 
 .biotext {
@@ -61,7 +67,7 @@ body {
   margin: 3vw;
   margin-right: 0px;
   background-color: #e5dbff;
-  padding-left: 5vw;
+  padding-left: 8vw;
   padding-right: 5vw;
   max-width: 80vw;
 }
