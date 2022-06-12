@@ -9,7 +9,7 @@
 }
 
 .projectText {
-  width: 500px;
+  min-width: 50vw;
 }
 
 .project {
@@ -17,16 +17,13 @@
 }
 
 
-.music {
-  display: flex;
-}
-
-.audio {
+.musicText {
+  max-width: 80vw;
   flex:5;
+  padding-right: 30px;
 }
 
 .videos {
-  flex:5;
   padding-right: 50px;
 }
 
@@ -36,15 +33,17 @@
 }
 
 .image {
-  flex:5;
-  margin-left: 50px;
-  margin-right: 30px;
+  flex:5vw;
+  margin-left: 3vw;
+  margin-right: 5vw;
   border: 8px solid #010844;
   background-color: #9098dc;
+  max-width: 25vw;
+  max-height: 25vw;
 }
 
 .biotext {
-  min-width: 500px;
+  min-width: 60vw;
   flex:5;
   padding-right: 30px;
 }
@@ -56,15 +55,15 @@
 
 body {
   display: flex;
-  overflow-x: scroll;
-  white-space: auto;
+  overflow-x: hidden;
+  white-space: normal;
   font-family: sans-serif;
-  margin: 3rem;
+  margin: 3vw;
   margin-right: 0px;
   background-color: #e5dbff;
-  padding-left: 200px;
-  padding-right: 200px;
-  min-width: 1500px;
+  padding-left: 5vw;
+  padding-right: 5vw;
+  max-width: 80vw;
 }
 
 h1, h2 {
